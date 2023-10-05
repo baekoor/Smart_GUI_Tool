@@ -1,5 +1,9 @@
 Smart 3 Update File Creation Tool GUI - python 3.7+
 
+OS independent GUI tool for version control on dash clusters for boats.
+The program uses two binary data files, defines specific memory addresses for metadata, 
+compresses using XZ and encrypts with AES-128-OFB to create a concatenated data file that can be uploaded to dash clusters
+
 This can be run from terminal on linux with (python3.7 Gui.py), on windows with cmd (python Gui.py)
 or via double clicking the file.
 
