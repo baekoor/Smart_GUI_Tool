@@ -1,0 +1,16 @@
+# config.yaml
+# ALL ENTRIES MUST BE IN CHAR FORMAT OR NULL
+# 32 Char key and IV for encryption
+cryptography:
+  IV: null
+  key: "f78c3c5176a8505699b1f1de50d18172"
+
+metadata:
+  file_name: null
+  version: null
+  Proj_bin_addr: null
+  Resources_bin_addr: null
+
+filepaths:
+  Proj_bin: null
+  Resources_bin: null
